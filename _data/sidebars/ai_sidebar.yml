@@ -259,7 +259,7 @@ entries:
     folderitems:
 
     - title: ★Machine Learning
-      url: /mydoc_Machine Learning.html
+      url: /Machine Learning.html
       output: web, pdf
 
   - title: Tag archives
