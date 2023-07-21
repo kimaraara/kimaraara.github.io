@@ -1,3 +1,12 @@
+---
+title: AI
+sidebar: ai_sidebar
+keywords: ai, blog, updates, release notes, announcements
+permalink: ai.html
+toc: false
+folder: ai
+---
+
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
