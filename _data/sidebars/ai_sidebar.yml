@@ -3,7 +3,7 @@
 entries:
 - title: sidebar
   AI: Jekyll Doc Theme
-  version: 6.0
+  version: AI입니다.
   folders:
 
   - title: AIAIAIAI
@@ -251,6 +251,15 @@ entries:
 
     - title: Troubleshooting
       url: /mydoc_troubleshooting.html
+      output: web, pdf
+
+  - title: ★Machine Learning
+    output: web, pdf
+    
+    folderitems:
+
+    - title: ★Machine Learning
+      url: /mydoc_Machine Learning.html
       output: web, pdf
 
   - title: Tag archives
